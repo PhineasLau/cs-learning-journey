@@ -31,6 +31,9 @@ Each folder represents a stage of my progress, including:
 ## 📈 Progress tracking
 I update this repo weekly as I learn new concepts and build small projects.
 
+## 🚧 Current focus
+Right now I am focusing on building strong fundamentals rather than rushing into advanced topics.
 ---
 
 Last updated: 17 June 2026
+
